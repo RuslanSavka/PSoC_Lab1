@@ -1,0 +1,68 @@
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_CSHL.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_IP.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_PVT.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_SMS.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_SampleClk.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_SenseClk.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_Sns_aliases.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_TunerHelper.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/Clock_PWM.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CyFlash.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CyLib.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_1.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_1_aliases.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_2.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_2_aliases.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_CONTROL.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cmsis_armcc.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cmsis_compiler.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cmsis_gcc.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/core_cm0.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cyPm.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cyfitter.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cypins.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cytypes.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/project.h D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/main.c 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_CSHL.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_IP.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_PVT.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_SMS.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_SampleClk.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_SenseClk.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_Sns_aliases.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CapSense_CSD_TunerHelper.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/Clock_PWM.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_1.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_1_aliases.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_2.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_2_aliases.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/LED_CONTROL.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/Generated_Source/PSoC4/project.h : 
+
+D:/CrystalUzhNU/CapSense_CSD_P4_Design01.cydsn/main.c : 
+

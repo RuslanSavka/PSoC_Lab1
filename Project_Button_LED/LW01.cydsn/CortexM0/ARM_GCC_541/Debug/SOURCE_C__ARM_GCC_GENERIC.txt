@@ -1,0 +1,1 @@
+'D:\CrystalUzhNU\LW01.cydsn\main.c' -o .o -T SOURCE_C__ARM_GCC_GENERIC -I 'D:\CrystalUzhNU\LW01.cydsn' -I 'D:\CrystalUzhNU\LW01.cydsn\Generated_Source\PSoC4' -f 'D:\CrystalUzhNU\LW01.cydsn\CortexM0\ARM_GCC_541\Debug\.deps\SOURCE_C__ARM_GCC_GENERIC.d'
